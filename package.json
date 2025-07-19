@@ -1,0 +1,30 @@
+{
+  "name": "chalbe-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YTW7/cli-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YTW7/cli-tool/issues"
+  },
+  "homepage": "https://github.com/YTW7/cli-tool#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.8.2",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.7.0",
+    "nanospinner": "^1.2.2"
+  }
+}
